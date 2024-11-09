@@ -3,27 +3,22 @@ const modalContainer = document.querySelector('.modal-container')
 const modalContainerClose = document.querySelector('.modal-container-close')
 const modalCloseButton = document.querySelector('.modal-close-button')
 
-const isEscapeKey = (evt) => evt.key === 'Escape';
-
 const openModal = () => {
-    modalContainerClose.classList.add('modal-container-close');
-    modalContainerClose.style.display = 'block';
+  modalContainerClose.style.display = 'block';
 };
 
-const closeModal = () => {
-    modalContainerClose.classList.remove('modal-container-close');
-    modalContainerClose.style.display = 'none';
-    document.removeEventListener('keydown', onDocumentKeydown);
+const hideModal = () => {
+  modalContainerClose.style.display = 'none';
 };
 
-function onDocumentKeydown(evt) {
-  if (isEscapeKey(evt)) {
-    evt.preventDefault();
+document.addEventListener('keydown', function (evt) {
+  if (evt.key === 'Escape') {
+    hideModal()
   }
-}
+});
 
 modalCloseButton.onclick = function () {
-  closeModal();
+  hideModal();
 };
 
 buttonSearch.onclick = function () {
