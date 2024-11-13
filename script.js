@@ -1,14 +1,14 @@
 const buttonSearch = document.querySelector('.button-search')
 const modalContainer = document.querySelector('.modal-container')
-const modalContainerClose = document.querySelector('.modal-container-close')
+// const modalContainerJs = document.querySelector('.modal-container')
 const modalCloseButton = document.querySelector('.modal-close-button')
 
 const openModal = () => {
-  modalContainerClose.style.display = 'block';
+  modalContainer.style.display = 'block';
 };
 
 const hideModal = () => {
-  modalContainerClose.style.display = 'none';
+  modalContainer.style.display = 'none';
 };
 
 document.addEventListener('keydown', function (evt) {

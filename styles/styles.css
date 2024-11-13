@@ -651,10 +651,10 @@ li.infrastructure-item.infrastructure-item-color {
 .modal-container {
   position: fixed;
   top: 0;
-  left: 25%;
-  /* left: 0; */
+  /* left: 25%; */
+  left: 0;
   display: flex;
-  /* width: 100%; */
+  width: 100%;
   height: 100%;
   z-index: 2;
   background: rgb(242 242 242 / 80%);
