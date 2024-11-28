@@ -2,7 +2,7 @@
 
 * Студент: [Дмитрий Баранов](https://up.htmlacademy.ru/htmlcss-individual/1/user/2324921).
 * Наставник: [Татьяна Симоненко] https://htmlacademy.ru/profile/tatien.
-
+* Ссылка на сайт: https://baranovdmitriy87.github.io/2324921-sedona-1/ 
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
