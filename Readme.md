@@ -2,8 +2,8 @@
 
 * Студент: [Дмитрий Баранов](https://up.htmlacademy.ru/htmlcss-individual/1/user/2324921).
 * Наставник: [Татьяна Симоненко] https://htmlacademy.ru/profile/tatien.
-* Макет: https://www.figma.com/design/TPfCmseYG5nV6pAuhJV8b9/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(36)?node-id=0-1&p=f&t=URxNBQ4pY2428z7A-0
-* Ссылка на сайт: https://baranovdmitriy87.github.io/2324921-sedona-1/ 
+* [МАКЕТ](https://www.figma.com/design/TPfCmseYG5nV6pAuhJV8b9/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(36)?node-id=0-1&p=f&t=URxNBQ4pY2428z7A-0)
+* [ОБЗОР ПРОЕКТА](https://baranovdmitriy87.github.io/2324921-sedona-1/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
